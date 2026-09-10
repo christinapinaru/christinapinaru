@@ -2,7 +2,7 @@
 
 **Computer Science Student | Aspiring Software Engineer**
 
-I am a Computer Science student who loves solving problems and building functional software applications. I spend most of my time practicing competitive programming or building full-stack and backend-focused applications.
+I am a Computer Science student who loves solving problems and building functional software applications. I spend most of my time practicing competitive programming and backend-focused applications.
 
 - 💻 **Focus Area:** Data Structures, Algorithms & Backend Systems
 - 🌐 **Web:** Node.js, Express.js, React, MongoDB
