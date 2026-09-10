@@ -6,7 +6,6 @@ I am a Computer Science student who loves solving problems and building function
 
 - 💻 **Focus Area:** Data Structures, Algorithms & Backend Systems
 - 🌐 **Web:** Node.js, Express.js, React, MongoDB
-- 📱 **Mobile:** Flutter & Firebase
 - 🎯 **Goal:** Growth as a Software Engineer through consistent building and problem-solving
 
 ---
@@ -15,7 +14,6 @@ I am a Computer Science student who loves solving problems and building function
 
 * **Programming Languages:** C++, JavaScript, Dart, C
 * **Backend & Databases:** Node.js, Express.js, MongoDB, REST APIs, JWT
-* **Frontend & Mobile:** React, Flutter, HTML5, CSS3, Tailwind CSS
 * **Tools & Platforms:** Git, GitHub, Firebase, Firestore, Postman, VS Code
 
 ---
