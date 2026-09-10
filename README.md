@@ -18,45 +18,6 @@ I am a Computer Science student who loves solving problems and building function
 
 ---
 
-## 🚀 Featured Projects
-
-### 🍽️ GoodPlate — Food Donation Platform
-A full-stack web platform connecting food donors directly with community members in need.
-* **Tech Stack:** React, Node.js, Express.js, MongoDB, JWT
-* **Key Features:**
-  * User authentication with role-based access
-  * Food donation posting and interactive request workflow
-  * Complete donation and request history tracking
-
-### 🎬 CineStream — Movie Streaming & Cinema Booking App
-A hybrid mobile application combining cinema ticket booking with an OTT streaming service.
-* **Tech Stack:** Flutter, Firebase Authentication, Firestore, Firebase Storage
-* **Key Features:**
-  * Movie browsing with search and category filtering
-  * Interactive seat selection and cinema ticket booking
-  * Built-in streaming player for OTT content
-
-### 🛒 E-Commerce REST API
-A scalable backend API supporting product catalogues, cart state, and order execution.
-* **Tech Stack:** Node.js, Express.js, MongoDB, JWT
-* **Key Features:**
-  * Secure JWT authentication and permission control
-  * CRUD endpoints for product management and shopping carts
-  * Role-based endpoints for administrator operations
-
----
-
-## 🧠 Competitive Programming & DSA
-
-I regularly solve competitive programming problems using **C++** to sharpen my logical thinking and algorithm efficiency.
-
-**Focus Topics:**
-* Arrays & Strings
-* Sorting, Searching & Binary Search
-* Two Pointers & Greedy Algorithms
-* Sets & Maps
-* Dynamic Programming & Basic Graph Algorithms
-
 **Profiles:**
 * **Codeforces:** [Christina_Pinaru](https://codeforces.com/profile/Christina_Pinaru)
 
